@@ -1,0 +1,48 @@
+{
+    "setting":  {
+                    "es6":  true,
+                    "postcss":  true,
+                    "minified":  true,
+                    "uglifyFileName":  false,
+                    "enhance":  true,
+                    "packNpmRelationList":  [
+
+                                            ],
+                    "babelSetting":  {
+                                         "ignore":  [
+
+                                                    ],
+                                         "disablePlugins":  [
+
+                                                            ],
+                                         "outputPath":  ""
+                                     },
+                    "useCompilerPlugins":  false,
+                    "minifyWXML":  true
+                },
+    "compileType":  "miniprogram",
+    "simulatorPluginLibVersion":  {
+
+                                  },
+    "packOptions":  {
+                        "ignore":  [
+                                       {
+                                           "value":  "index.html",
+                                           "type":  "file"
+                                       },
+                                       {
+                                           "value":  "使用说明.txt",
+                                           "type":  "file"
+                                       }
+                                   ],
+                        "include":  [
+
+                                    ]
+                    },
+    "appid":  "wx184c6cb4b064319a",
+    "editorSetting":  {
+
+                      },
+    "miniprogramRoot":  "./",
+    "projectname":  "clean-checkin"
+}
